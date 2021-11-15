@@ -19,13 +19,13 @@
 ### Home
 
 <p align="center">
-  <img src="readme_image/home.PNG" alt="Home">
+  <img src="readme_image/home.png" alt="Home">
 </p>
 
 ### Search
 
 <p align="center">
-  <img src="readme_image/search.PNG" alt="Search">
+  <img src="readme_image/search.png" alt="Search">
 </p>
 
 ## Developer
