@@ -1,5 +1,9 @@
 # Note App with React Redux
 
+## NETLIFY DEMO
+
+[NETLIFY DEMO - CLICK ](https://react-note-with-redux.netlify.app)
+
 ## Project Technical Information
 
 - React
